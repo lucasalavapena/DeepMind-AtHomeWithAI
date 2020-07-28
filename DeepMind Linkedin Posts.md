@@ -1,6 +1,6 @@
-# #AtHomeWithAI - DeepMind
+# #AtHomeWithAI Resource Sharing - DeepMind
 
-https://www.linkedin.com/company/deepmind/
+Here you can find all the #AtHomeWithAI resource sharing posts from https://www.linkedin.com/company/deepmind/. Note that there are other posts that DeepMind shares using that hashtag, however, they are related to their own content.
 
 >  For those interested in expanding their knowledge of AI during this period, we thought it might be helpful to ask our researchers what they consider to be the most impactful and insightful resources available to use #AtHomeWithAI.
 
@@ -124,11 +124,11 @@ https://www.linkedin.com/company/deepmind/
 - [NLP-progress](http://nlpprogress.com/)
 
 ---
-## Jessica Hamrick, research scientist
-- [Probabilistic Models of Cognition](https://probmods.org/)
-- [Computational cognitive modeling](https://brendenlake.github.io/CCM-site)
-- [Nelson Goodman’s “The New Riddle of Induction”](http://fitelson.org/confirmation/goodman_1955.pdf)
-- [Marr's Vision: Levels of Analysis in Cognitive Science [chapter 1]](http://ling.umd.edu/~idsardi/728/Marr/Marr%20'Vision'%20Ch%201.pdf)
+## Mihaela Rosca, research engineer 
+- [The mathematicalmonk on YouTube](https://www.youtube.com/user/mathematicalmonk/featured)
+- [Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670)
+- [Monte Carlo Gradient Estimation in Machine Learning](https://arxiv.org/abs/1906.10652)
+- [The Reproducing kernel Hilbert spaces in Machine Learning course](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html)
 
 
 ---
@@ -145,6 +145,27 @@ https://www.linkedin.com/company/deepmind/
 - [Machine learning: Algorithms in the Real World Specialisation](https://www.coursera.org/specializations/machine-learning-algorithms-real-world)
 - [WEKA - a free open source machine learning toolset](https://www.cs.waikato.ac.nz/ml/weka/)
 
+
+--- 
+## Dani Yogatama, research scientist (Machine Learning)
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Francis Bach’s blog](https://francisbach.com/)
+- [Standford’s Machine Learning lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
+
+--- 
+## Markus Wulfmeier, research scientist
+- [Stanford’s computer vision course](http://cs231n.stanford.edu/)
+- [Neural network tutorials](https://www.cs.toronto.edu/~hinton/nntut.html)
+- [Lilian Weng’s blog](https://lilianweng.github.io/lil-log/)
+
+
+--- 
+## Ngân Vũ, research engineer
+- [A 2020 vision of Linear Algebra](https://www.youtube.com/watch?v=YrHlHbtiSM0&list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
+- [The Artificial Intelligence podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
+- [Machine Learning course (via Coursera)](https://www.coursera.org/learn/machine-learning)
 
 
 --- 
